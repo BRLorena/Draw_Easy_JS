@@ -1,6 +1,7 @@
 # 💻 About Draw Easy
 
-  Draw Easy is a project developed in javaScript, jQuery, html and css. That I aimed to test knowledge of logic in JS. Draw something with this simple, intuitive and fun application 😃.<br><br>
+  Draw Easy is a project developed in javaScript, jQuery, html and css. That I aimed to test knowledge of logic in JS. Draw something with this simple, intuitive and fun application.<br><br>
+  <button><a href="https://brlorena.github.io/Draw_Easy_JS/" style="text-decoration: none;">Draw Something 😃</button></a><br><br>
   
 # 📷 How to use it
 
